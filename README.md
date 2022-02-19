@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning html,css and javascript on freeCodeCamp.
+
 <!--
 **sanath111/sanath111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
